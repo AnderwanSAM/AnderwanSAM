@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Andie. A computer science student from Canada aiming to deepen my understanding of software development. 
+
+I am currently working on a few projects involving NodeJS, Docker and Kubernetes that I am using as step-stone to master  these technologies :)  
+
+Have a look at my website : https://secret-basin-59214.herokuapp.com/ 
