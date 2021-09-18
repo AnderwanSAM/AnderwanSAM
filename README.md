@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andie. A computer science student from Canada aiming to deepen my understanding of software development. 
+I am Andie. A computer science student at the University of Ottawa in  Canada aiming to deepen my understanding of software development. 
 
 I am currently working on a few projects involving NodeJS, Docker and Kubernetes that I am using as step-stone to master  these technologies :)  
 
