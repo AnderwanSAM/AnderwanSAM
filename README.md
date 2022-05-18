@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 I am Andie. A computer science student at the University of Ottawa in  Canada aiming to deepen my understanding of software development. 
 
-I am currently working on a few projects involving NodeJS, Docker and Kubernetes that I am using as step-stone to master  these technologies :)  
+I love exploring new technologies particularly embedded and cloud technologies. 
+
+Tech Stack : 
+ * Web development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
+ * DevOps : Linux systems| Git | Gitlab-CI | Jenkins|  Grafana | Telegraf | Docker | Kubernetes |Ansible | SonarQube 
+ * Databases:  PostgreSQL | Firebase | MongoDB | Mongoose | influxdb
+ * Testing : jest | Mocha | Chai | Selenium 
+
 
 Have a look at my website : https://secret-basin-59214.herokuapp.com/ 
