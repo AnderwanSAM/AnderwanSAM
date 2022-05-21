@@ -20,10 +20,13 @@ I am Andie. A computer science student at the University of Ottawa in  Canada ai
 I love exploring new technologies particularly embedded and cloud technologies. 
 
 Tech Stack : 
- * Web development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
+ * Web Development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
+ * Mobile Development : React | Java 
+ * Software Development : Java 
  * DevOps : Linux systems| Git | Gitlab-CI | Jenkins|  Grafana | Telegraf | Docker | Kubernetes |Ansible | SonarQube 
  * Databases:  PostgreSQL | Firebase | MongoDB | Mongoose | influxdb
  * Testing : jest | Mocha | Chai | Selenium 
+ 
 
 
 Have a look at my website : https://secret-basin-59214.herokuapp.com/ 
