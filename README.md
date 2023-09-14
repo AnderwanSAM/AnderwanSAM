@@ -35,6 +35,18 @@ Tech Stack :
  *	Course projects: During my classes I built: Chat applications (Java, Python), an ATM simulator (C++), a Card Game (C++), a Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python. I also built various projects for Data science and machine learning using Python and available libraries.
  *	Current projects and courses: Design of secure computer systems, Cryptography and Image information retrieval
 
+EXTRA-CURRICULAR ACTIVITIES : 
+
+*	Member of a Robotics Group (Groupe de Robotique de l’Université de Moncton) from 2019 to 2020
+*	Member of Let’s talk science from 2020 to 2022.
+
+INTERESTS : 
+
+*  Automation and cloud technologies 
+* 	Microprocessors (Raspberry Pi) and Micro-controllers (Arduino)
+*  Books (Philosophy, Science fiction, Medieval)
+*	 Nature lover
+
 
 
 Have a look at my website : https://secret-basin-59214.herokuapp.com/ 
