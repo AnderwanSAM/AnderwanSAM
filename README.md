@@ -48,5 +48,3 @@ INTERESTS :
 *	 Nature lover
 
 
-
-Have a look at my website : https://secret-basin-59214.herokuapp.com/ 
