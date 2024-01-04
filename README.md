@@ -33,6 +33,7 @@ Tech Stack :
  * Novigrad – Android Application: Built an android application with teammates as part of our introductory software engineering course. This android application provides management solutions to companies having multiple branches (Java).
  *	Inventory tracking App: Built a web application to track the inventories of several warehouses (NodeJS, MongoDB)
  *	Course projects: During my classes I built: Chat applications (Java, Python), an ATM simulator (C++), a Card Game (C++), a Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python. I also built various projects for Data science and machine learning using Python and available libraries.
+ *	Image Search : Leverages AI and old techniques to perform text and image based search
  *	Current projects and courses: Design of secure computer systems, Cryptography and Image information retrieval
 
 EXTRA-CURRICULAR ACTIVITIES : 
@@ -42,6 +43,7 @@ EXTRA-CURRICULAR ACTIVITIES :
 
 INTERESTS : 
 
+*  Building software
 *  Automation and cloud technologies 
 * 	Microprocessors (Raspberry Pi) and Micro-controllers (Arduino)
 *  Books (Philosophy, Science fiction, Medieval)
