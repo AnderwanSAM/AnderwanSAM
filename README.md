@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andie. A computer science student at the University of Ottawa in  Canada aiming to hone my skills. 
+I am Andie. A computer science graduand from the University of Ottawa in  Canada honing my skills. 
 
-I am passionate of automation and I love exploring new technologies particularly embedded and cloud technologies. 
+I am passionate of automation and I love exploring new technologies. 
 
 Tech Stack : 
  * Web Development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
@@ -32,9 +32,17 @@ Tech Stack :
  * Gitlab Danger Plugin (Open source ): Created an open source plugin to help enforce best practices in git collaboration using TypeScript and Danger JS (See Gitlab project ) 
  * Novigrad – Android Application: Built an android application with teammates as part of our introductory software engineering course. This android application provides management solutions to companies having multiple branches (Java).
  *	Inventory tracking App: Built a web application to track the inventories of several warehouses (NodeJS, MongoDB)
- *	Course projects: During my classes I built: Chat applications (Java, Python), an ATM simulator (C++), a Card Game (C++), a Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python. I also built various projects for Data science and machine learning using Python and available libraries.
- *	Image Search : Leverages AI and old techniques to perform text and image based search
- *	Current projects and courses: Design of secure computer systems, Cryptography and Image information retrieval
+ *	Course projects: 	During my classes I built:
+ 	* Chat applications (Java, Python)
+    * An ATM simulator (C++)
+    * A Card Game (C++),
+    * A Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python.
+    * Using Python, I also built various projects for Data science and machine learning and available libraries.
+    * Image Search : (Python)Leverages AI and old techniques to perform text and image based search
+ *	Current projects and courses:
+    *   Design of secure computer systems (Python),
+    * Cryptography (Python) : Implemented cryptographs
+    *  Image information retrieval : Python (Flask,Keras)
 
 EXTRA-CURRICULAR ACTIVITIES : 
 
@@ -44,7 +52,7 @@ EXTRA-CURRICULAR ACTIVITIES :
 INTERESTS : 
 
 *  Building software
-*  Automation and cloud technologies 
+*  Automation 
 * 	Microprocessors (Raspberry Pi) and Micro-controllers (Arduino)
 *  Books (Philosophy, Science fiction, Medieval)
 *	 Nature lover
