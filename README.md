@@ -27,7 +27,7 @@ Tech Stack :
  * Databases:  PostgreSQL | Firebase | MongoDB | Mongoose | influxdb
  * Testing : jest | Mocha | Chai | Selenium 
 
- Projects : 
+ Projects (Personal/open source + course work): 
 
  * Gitlab Danger Plugin (Open source ): Created an open source plugin to help enforce best practices in git collaboration using TypeScript and Danger JS (See Gitlab project ) 
  * Novigrad – Android Application: Built an android application with teammates as part of our introductory software engineering course. This android application provides management solutions to companies having multiple branches (Java).
