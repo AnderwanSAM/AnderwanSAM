@@ -31,8 +31,8 @@ Tech Stack :
 
  * Gitlab Danger Plugin (Open source ): Created an open source plugin to help enforce best practices in git collaboration using TypeScript and Danger JS (See Gitlab project )
  * Inventory tracking App: Built a web application to track the inventories of several warehouses (NodeJS, MongoDB)
- * Sides-manager : Ever heard of selenium ide ? This CLI helps set confidentatial values in the selenium ide files. (Work in progress...)
- * Jenkins plugin : Forked a Jenkins plugin for OpenStack and proposed a fix to an issue I found. 
+ * Sides-manager : Ever heard of selenium ide ? This CLI helps set confidentatial values in the selenium ide files. (Work in progress...) (Node JS) 
+ * Jenkins plugin : Forked a Jenkins plugin for OpenStack and proposed a fix to an issue I found. (Java)
  * Novigrad – Android Application: Built an android application with teammates as part of our introductory software engineering course. This android application provides management solutions to companies having multiple branches (Java).
 
 
