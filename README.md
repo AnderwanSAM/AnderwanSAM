@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andie. A computer science graduand from the University of Ottawa in  Canada honing my skills. 
+I am Andie. A computer science new graduate from the University of Ottawa in  Canada honing my skills. 
 
 I am passionate of automation and I love exploring new technologies. 
 
