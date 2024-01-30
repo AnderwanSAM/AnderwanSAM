@@ -21,7 +21,7 @@ I am passionate of automation and I love exploring new technologies.
 
 Tech Stack : 
  * Web Development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
- * Mobile Development : React | Java | Javacript(React)
+ * Mobile Development : React | Java | Javacript(React Native)
  * Software Development : Java | C# | Python
  * DevOps : Linux systems| Git | Gitlab-CI | Jenkins|  Grafana | Telegraf | Docker | Kubernetes |Ansible | SonarQube 
  * Databases:  PostgreSQL | Firebase | MongoDB | Mongoose | influxdb
