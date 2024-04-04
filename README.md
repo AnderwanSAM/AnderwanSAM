@@ -38,12 +38,12 @@ Tech Stack :
  * Jenkins plugin : Forked a Jenkins plugin for OpenStack and proposed a fix to an issue I found. (Java)
  * Novigrad – Android Application: Built an android application with teammates as part of our introductory software engineering course. This android application provides management solutions to companies having multiple branches (Java).
 
-Currently closed source  : 
+Currently closed source   : 
  * Languages Data collector :  Developed a full-stack web application to collect audio and text for Machine Learning. Deployment on AWS EC2 and monitoring with Cloudwatch.
  * Vernacular language translator : Developing a language translator using transformers. The target languages are the vernacular languages of West Africa.
  
 
- *	Course projects: 	During my classes I built:
+Course projects: 	During my classes I built:
  	* Chat applications (Java, Python)
     * An ATM simulator (C++)
     * A Card Game (C++),
