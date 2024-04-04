@@ -44,15 +44,15 @@ Currently closed source   :
  
 
 Course projects: 	During my classes I built:
- 	* Chat applications (Java, Python)
-    * An ATM simulator (C++)
-    * A Card Game (C++),
-    * A Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python.
-    * Using Python, I also built various projects for Data science and machine learning and available libraries.
-    * Image Search : (Python)Leverages AI and old techniques to perform text and image based search
- *	Current projects and courses:
-    * Design of secure computer systems (Python),
-    * Cryptography (Python) : Implemented cryptographs
+ 
+ * Chat applications (Java, Python)
+ * An ATM simulator (C++)
+ * A Card Game (C++),
+ * A Sudoku Game (C++) and a variety of programs to solve problems such as stables marriages, ferry Loading, Knapsack using Data structures and algorithms in Java, Go, Prolog and Python.
+ * Using Python, I also built various projects for Data science and machine learning and available libraries.
+ * Image Search : (Python)Leverages AI and old techniques to perform text and image based search
+ * Design of secure computer systems (Python),
+ * Cryptography (Python) : Implemented cryptographs
     
 
 EXTRA-CURRICULAR ACTIVITIES : 
