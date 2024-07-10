@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andie. A computer science new graduate from the University of Ottawa in  Canada honing my skills. 
+I am Andie. A software developer with a computer science degree from the University of Ottawa. Canada. 
 
-I am passionate of automation and I love exploring new technologies. 
+I am passionate of automation,  I love exploring new technologies and I am honing my skills. 
 
 Tech Stack : 
  * Web Development : HTML | CSS | Javascript | TypeScript | Vue Js | Node JS | Express Js | EJS | API | Authentication | OAuth2
  * Mobile Development : React | Java | Javacript(React Native)
  * Software Development : Java | C++ | C# | Python
- * DevOps : Linux systems| Git | Gitlab-CI | Jenkins|  Grafana | Telegraf | Docker | Kubernetes |Ansible | SonarQube 
+ * DevOps : Linux systems| Git | Gitlab-CI | Jenkins| Github Actions | Grafana | Telegraf | Docker | Kubernetes |Ansible | SonarQube | Terraform
+ * Cloud : Azure, Aws, GCP 
  * Databases:  PostgreSQL | Firebase | MongoDB | Mongoose | influxdb
  * Testing : jest | Mocha | Chai | Selenium
  * AI : Machine Learning
