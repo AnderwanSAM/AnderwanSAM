@@ -12,7 +12,7 @@ Autodidact since 2015, I have a deep curiosity for understanding and improving t
 - Cloud: AWS, GCP
 - Databases: PostgreSQL, Firebase, MongoDB, Mongoose, InfluxDB
 - Testing: Jest, Mocha, Chai, Selenium
-- AI: Machine Learning
+- AI/Machine Learning: 
 
 **Projects**:
 
