@@ -3,7 +3,6 @@ Hey folks! I am **Andie**!
 I am a software developer with a computer science degree from the University of Ottawa and extensive programming experience.
 Autodidact since 2015, I have a deep curiosity for understanding and improving technologies.
 
-Professional account : https://github.com/Andiesam
 
 **Tech Stack**:
 
