@@ -1,6 +1,6 @@
 Hey folks! I am **Andie**!
 
-I am a software developer with a computer science degree from the University of Ottawa and extensive programming experience.
+I am a software developer with extensive programming experience and a computer science degree from the University of Ottawa.
 Autodidact since 2015, I have a deep curiosity for understanding and improving technologies.
 
 
