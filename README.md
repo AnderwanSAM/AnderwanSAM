@@ -1,6 +1,7 @@
 Hey folks! I am **Andie**!
 
 **Professional profile** : https://github.com/Andiesam
+The current profile is mostly for experiments 🙂
 
 I am a software developer with extensive programming experience and a computer science degree from the University of Ottawa.
 Autodidact since 2015, I have a deep curiosity for understanding and improving technologies.
