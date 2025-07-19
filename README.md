@@ -14,7 +14,7 @@ Autodidact since 2015, I have a deep curiosity for understanding and improving t
 - Software Development: C++, C#,Java, Javascript, Python
 - DevOps: Linux, Git, GitLab CI, Jenkins, GitHub Actions, Grafana, Telegraf, Docker, Kubernetes, Ansible, SonarQube, Terraform
 - Cloud: AWS, GCP
-- Databases: PostgreSQL, Firebase, MongoDB, Mongoose, InfluxDB
+- Databases: Set up, maintain and handle complex migrations of PostgreSQL, Firebase, MongoDB, Mongoose, InfluxDB
 - Testing: Jest, Mocha, Chai, Selenium
 - AI/Machine Learning: 
 
